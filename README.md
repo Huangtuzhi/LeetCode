@@ -186,10 +186,10 @@ LeetCode
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [C++](./algorithms/reverseInteger/reverseInteger.cpp)|Easy|
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/zigZagConversion/zigZagConversion.cpp)|Easy|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [C++](./algorithms/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|
-|4|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/addTwoNumbers/addTwoNumbers.cpp)|Medium|
-|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
+|4|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./addTwoNumbers/addTwoNumbers.cpp)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./longestSubstringWithoutRepeatingCharacters/longestSubstring.cpp)|Medium|
 |2|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./algorithms/twoSum/twoSum.cpp)|Medium|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./twoSum/twoSum.cpp)|Medium|
 
 ##记录
 

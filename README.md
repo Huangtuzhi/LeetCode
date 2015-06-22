@@ -1,7 +1,8 @@
-LeetCode
+﻿LeetCode
 ========
 
 ###LeetCode Algorithm
+
 
 (Notes: "&hearts;" means you need buy a book from Leetcode)
 
